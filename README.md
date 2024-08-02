@@ -1,5 +1,3 @@
-![Github Banner](assets/github-banner.jpg)
-
 ## Hello <img src="assets/hello.gif" width="28px" alt="hi">
 
 I'm Ahad, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I love to learn and implement new technologies.
