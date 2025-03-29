@@ -13,6 +13,6 @@ I'm Ahad, a Full Stack (Backend-Focused) Developer from <img src="assets/banglad
 📌 Fun Fact: My most-used line of code is console.log("hello world")
 🔍 Looking for: Like-minded developers to exchange knowledge on new tech
 
-🌍 LeetCode: <a href="leetcode.com/u/mehedihasanahad07" target="_blank">leetcode.com/u/mehedihasanahad07</a>
+🌍 LeetCode: <a href="[leetcode.com/u/mehedihasanahad07](https://leetcode.com/u/mehedihasanahad07/)" target="_blank">leetcode.com/u/mehedihasanahad07</a>
 
 📧 Reach Me At: mehedihasanahad07@gmail.com
