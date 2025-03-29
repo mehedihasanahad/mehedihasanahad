@@ -4,15 +4,15 @@ I'm Ahad, a Full Stack (Backend-Focused) Developer from <img src="assets/banglad
 
 🚀 Passionate about learning and implementing new technologies.
 
-💡 What I Love:
+💡 **What I Love:**
 
 - 🖥️ Coding, problem-solving, and building scalable applications
 
 - 🤝 Sharing knowledge and collaborating with others
 
-📌 Fun Fact: My most-used line of code is console.log("hello world")
-🔍 Looking for: Like-minded developers to exchange knowledge on new tech
+📌 **Fun Fact:** My most-used line of code is console.log("hello world")
+🔍 **Looking for:** Like-minded developers to exchange knowledge on new tech
 
-🌍 LeetCode: <a href="https://leetcode.com/u/mehedihasanahad07" target="_blank">https://leetcode.com/u/mehedihasanahad07</a>
+🌍 **LeetCode:** <a href="https://leetcode.com/u/mehedihasanahad07" target="_blank">https://leetcode.com/u/mehedihasanahad07</a>
 
-📧 Reach Me At: mehedihasanahad07@gmail.com
+📧 **Reach Me At:** mehedihasanahad07@gmail.com
